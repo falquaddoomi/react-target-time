@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "component for select hour on week",
   "keywords": ["react","component","week","time","hour","select","moment"],
-  "main": "src/TargetTime/index.js",
+  "main": "dist/bundle.js",
   "scripts": {
     "styleguide-server": "styleguidist server",
     "styleguide-build": "styleguidist build"
