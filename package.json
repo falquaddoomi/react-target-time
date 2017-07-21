@@ -1,6 +1,6 @@
 {
   "name": "react-target-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "component for select hour on week",
   "keywords": ["react","component","week","time","hour","select","moment"],
   "main": "dist/bundle.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nfort/react-target-time.git"
+    "url": "git+https://github.com/falquaddoomi/react-target-time"
   },
   "author": "nfort",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nfort/react-target-time/issues"
+    "url": "https://github.com/falquaddoomi/react-target-time/issues"
   },
-  "homepage": "https://github.com/nfort/react-target-time#readme",
+  "homepage": "https://github.com/falquaddoomi/react-target-time#readme",
   "dependencies": {
     "classnames": "^2.2.5",
     "install": "^0.8.1",
